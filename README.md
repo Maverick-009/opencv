@@ -1,9 +1,9 @@
 ## OpenCV: Open Source Computer Vision Library
 
-#This is the Change
-*Adding change 1
-*Adding change 2
-*Adding change 3
+##This is the Change
+* Adding change 1
+* Adding change 2
+* Adding change 3
 
 ### Resources
 
